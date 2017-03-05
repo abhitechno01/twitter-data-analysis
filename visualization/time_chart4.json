@@ -1,0 +1,4181 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Time",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Freq",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "SUPPORT",
+          "idx": 1479110700000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479110700000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479110700000,
+          "val": 5.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479110760000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479110760000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479110760000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479110820000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479110820000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479110820000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479110880000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479110880000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479110880000,
+          "val": 3.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479110940000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479110940000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479110940000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111000000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111000000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111000000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111060000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111060000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111060000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111120000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111120000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111120000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111180000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111180000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111180000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111240000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111240000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111240000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111300000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111300000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111300000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111360000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111360000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111360000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111420000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111420000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111420000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111480000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111480000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111480000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111540000,
+          "val": 24.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111540000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111540000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111600000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111600000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111600000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111660000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111660000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111660000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111720000,
+          "val": 27.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111720000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111720000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111780000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111780000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111780000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111840000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111840000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111840000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111900000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111900000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111900000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479111960000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479111960000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479111960000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112020000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112020000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112020000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112080000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112080000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112080000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112140000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112140000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112140000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112200000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112200000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112200000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112260000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112260000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112260000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112320000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112320000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112320000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112380000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112380000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112380000,
+          "val": 20.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112440000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112440000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112440000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112500000,
+          "val": 9.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112500000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112500000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112560000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112560000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112560000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112620000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112620000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112620000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112680000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112680000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112680000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112740000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112740000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112740000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112800000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112800000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112800000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112860000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112860000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112860000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112920000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112920000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112920000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479112980000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479112980000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479112980000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113040000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113040000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113040000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113100000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113100000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113100000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113160000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113160000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113160000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113220000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113220000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113220000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113280000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113280000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113280000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113340000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113340000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113340000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113400000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113400000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113400000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113460000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113460000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113460000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113520000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113520000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113520000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113580000,
+          "val": 6.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113580000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113580000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113640000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113640000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113640000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113700000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113700000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113700000,
+          "val": 22.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113760000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113760000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113760000,
+          "val": 21.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113820000,
+          "val": 7.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113820000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113820000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113880000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113880000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113880000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479113940000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479113940000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479113940000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114000000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114000000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114000000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114060000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114060000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114060000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114120000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114120000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114120000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114180000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114180000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114180000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114240000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114240000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114240000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114300000,
+          "val": 26.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114300000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114300000,
+          "val": 19.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114360000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114360000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114360000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114420000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114420000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114420000,
+          "val": 19.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114480000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114480000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114480000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114540000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114540000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114540000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114600000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114600000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114600000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114660000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114660000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114660000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114720000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114720000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114720000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114780000,
+          "val": 7.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114780000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114780000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114840000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114840000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114840000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114900000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114900000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114900000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479114960000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479114960000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479114960000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115020000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115020000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115020000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115080000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115080000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115080000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115140000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115140000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115140000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115200000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115200000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115200000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115260000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115260000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115260000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115320000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115320000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115320000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115380000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115380000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115380000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115440000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115440000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115440000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115500000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115500000,
+          "val": 4.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115500000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115560000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115560000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115560000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115620000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115620000,
+          "val": 4.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115620000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115680000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115680000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115680000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115740000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115740000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115740000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115800000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115800000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115800000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115860000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115860000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115860000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115920000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115920000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115920000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479115980000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479115980000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479115980000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116040000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116040000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116040000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116100000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116100000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116100000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116160000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116160000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116160000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116220000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116220000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116220000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116280000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116280000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116280000,
+          "val": 30.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116340000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116340000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116340000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116400000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116400000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116400000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116460000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116460000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116460000,
+          "val": 24.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116520000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116520000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116520000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116580000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116580000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116580000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116640000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116640000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116640000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116700000,
+          "val": 23.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116700000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116700000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116760000,
+          "val": 26.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116760000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116760000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116820000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116820000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116820000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116880000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116880000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116880000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479116940000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479116940000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479116940000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117000000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117000000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117000000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117060000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117060000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117060000,
+          "val": 5.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117120000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117120000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117120000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117180000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117180000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117180000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117240000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117240000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117240000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117300000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117300000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117300000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117360000,
+          "val": 29.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117360000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117360000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117420000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117420000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117420000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117480000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117480000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117480000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117540000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117540000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117540000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117600000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117600000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117600000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117660000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117660000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117660000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117720000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117720000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117720000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117780000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117780000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117780000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117840000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117840000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117840000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117900000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117900000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117900000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479117960000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479117960000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479117960000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118020000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118020000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118020000,
+          "val": 19.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118080000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118080000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118080000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118140000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118140000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118140000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118200000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118200000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118200000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118260000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118260000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118260000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118320000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118320000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118320000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118380000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118380000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118380000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118440000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118440000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118440000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118500000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118500000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118500000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118560000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118560000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118560000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118620000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118620000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118620000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118680000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118680000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118680000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118740000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118740000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118740000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118800000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118800000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118800000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118860000,
+          "val": 24.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118860000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118860000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118920000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118920000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118920000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479118980000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479118980000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479118980000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119040000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119040000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119040000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119100000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119100000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119100000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119160000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119160000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119160000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119220000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119220000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119220000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119280000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119280000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119280000,
+          "val": 5.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119340000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119340000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119340000,
+          "val": 2.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119400000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119400000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119400000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119460000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119460000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119460000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119520000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119520000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119520000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119580000,
+          "val": 24.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119580000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119580000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119640000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119640000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119640000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119700000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119700000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119700000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119760000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119760000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119760000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119820000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119820000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119820000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119880000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119880000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119880000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479119940000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479119940000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479119940000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120000000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120000000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120000000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120060000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120060000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120060000,
+          "val": 20.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120120000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120120000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120120000,
+          "val": 20.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120180000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120180000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120180000,
+          "val": 20.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120240000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120240000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120240000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120300000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120300000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120300000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120360000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120360000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120360000,
+          "val": 19.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120420000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120420000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120420000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120480000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120480000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120480000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120540000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120540000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120540000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120600000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120600000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120600000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120660000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120660000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120660000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120720000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120720000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120720000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120780000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120780000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120780000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120840000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120840000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120840000,
+          "val": 23.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120900000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120900000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120900000,
+          "val": 20.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479120960000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479120960000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479120960000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121020000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121020000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121020000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121080000,
+          "val": 46.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121080000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121080000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121140000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121140000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121140000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121200000,
+          "val": 7.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121200000,
+          "val": 2.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121200000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121260000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121260000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121260000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121320000,
+          "val": 9.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121320000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121320000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121380000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121380000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121380000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121440000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121440000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121440000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121500000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121500000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121500000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121560000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121560000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121560000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121620000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121620000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121620000,
+          "val": 18.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121680000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121680000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121680000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121740000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121740000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121740000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121800000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121800000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121800000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121860000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121860000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121860000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121920000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121920000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121920000,
+          "val": 21.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479121980000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479121980000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479121980000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122040000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122040000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122040000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122100000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122100000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122100000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122160000,
+          "val": 31.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122160000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122160000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122220000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122220000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122220000,
+          "val": 17.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122280000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122280000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122280000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122340000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122340000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122340000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122400000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122400000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122400000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122460000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122460000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122460000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122520000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122520000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122520000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122580000,
+          "val": 9.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122580000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122580000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122640000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122640000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122640000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122700000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122700000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122700000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122760000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122760000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122760000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122820000,
+          "val": 26.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122820000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122820000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122880000,
+          "val": 25.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122880000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122880000,
+          "val": 20.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479122940000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479122940000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479122940000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123000000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123000000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123000000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123060000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123060000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123060000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123120000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123120000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123120000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123180000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123180000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123180000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123240000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123240000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123240000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123300000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123300000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123300000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123360000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123360000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123360000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123420000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123420000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123420000,
+          "val": 20.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123480000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123480000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123480000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123540000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123540000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123540000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123600000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123600000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123600000,
+          "val": 19.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123660000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123660000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123660000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123720000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123720000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123720000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123780000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123780000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123780000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123840000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123840000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123840000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123900000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123900000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123900000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479123960000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479123960000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479123960000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124020000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124020000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124020000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124080000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124080000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124080000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124140000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124140000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124140000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124200000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124200000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124200000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124260000,
+          "val": 23.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124260000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124260000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124320000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124320000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124320000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124380000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124380000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124380000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124440000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124440000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124440000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124500000,
+          "val": 21.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124500000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124500000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124560000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124560000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124560000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124620000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124620000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124620000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124680000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124680000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124680000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124740000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124740000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124740000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124800000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124800000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124800000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124860000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124860000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124860000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124920000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124920000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124920000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479124980000,
+          "val": 18.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479124980000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479124980000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125040000,
+          "val": 22.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125040000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125040000,
+          "val": 14.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125100000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125100000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125100000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125160000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125160000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125160000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125220000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125220000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125220000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125280000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125280000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125280000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125340000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125340000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125340000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125400000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125400000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125400000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125460000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125460000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125460000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125520000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125520000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125520000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125580000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125580000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125580000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125640000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125640000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125640000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125700000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125700000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125700000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125760000,
+          "val": 20.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125760000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125760000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125820000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125820000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125820000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125880000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125880000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125880000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479125940000,
+          "val": 14.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479125940000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479125940000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126000000,
+          "val": 12.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126000000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126000000,
+          "val": 5.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126060000,
+          "val": 13.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126060000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126060000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126120000,
+          "val": 16.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126120000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126120000,
+          "val": 10.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126180000,
+          "val": 6.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126180000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126180000,
+          "val": 5.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126240000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126240000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126240000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126300000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126300000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126300000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126360000,
+          "val": 24.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126360000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126360000,
+          "val": 13.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126420000,
+          "val": 5.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126420000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126420000,
+          "val": 16.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126480000,
+          "val": 19.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126480000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126480000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126540000,
+          "val": 15.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126540000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126540000,
+          "val": 6.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126600000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126600000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126600000,
+          "val": 8.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126660000,
+          "val": 8.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126660000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126660000,
+          "val": 12.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126720000,
+          "val": 7.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126720000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126720000,
+          "val": 11.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126780000,
+          "val": 10.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126780000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126780000,
+          "val": 15.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126840000,
+          "val": 17.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126840000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126840000,
+          "val": 9.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126900000,
+          "val": 11.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126900000,
+          "val": 1.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126900000,
+          "val": 7.0
+        },
+        {
+          "col": "SUPPORT",
+          "idx": 1479126960000,
+          "val": 4.0
+        },
+        {
+          "col": "IAMWITHMODI",
+          "idx": 1479126960000,
+          "val": 0.0
+        },
+        {
+          "col": "AGAINST",
+          "idx": 1479126960000,
+          "val": 10.0
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [
+    {
+      "fill": "color",
+      "offset": 0,
+      "properties": {},
+      "title": "Matches"
+    }
+  ],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "stroke": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "strokeWidth": {
+                "value": 2
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "line"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "time"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}
