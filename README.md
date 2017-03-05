@@ -1,5 +1,5 @@
 # twitter-data-analysis
-NOTE: "python2.7 is used for this project, if you are using latest version of python, then some funtionality need to be changed accordingly"
+NOTE: "python2.7 is used for this project, if you are using latest version of python, then some funtionality need to be changed accordingly. For clear understanding of the project check presentation file within the repository"
 
 Performed Sentimental Analysis and Visualization.
 
